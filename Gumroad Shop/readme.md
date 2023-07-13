@@ -10,7 +10,7 @@
     Template URL: <a href="https://onepagelove.com/gumroad-shop">Click Here!</a>
   </li>
     <li>
-    Demo URL: <a href="#">Click Here!</a>
+    Demo URL: <a href="https://onepagelove-templates-copy.vercel.app/">Click Here!</a>
   </li>
 </ul>
 
