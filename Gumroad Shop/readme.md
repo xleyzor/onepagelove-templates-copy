@@ -1,4 +1,4 @@
-![Ekran Görüntüsü 2023-08-20 00 27 30](https://github.com/xleyzor/onepagelove-templates-copy/assets/122406455/2faca141-8344-448b-ae5d-d3d9f01d1b2a)
+![Ekran Görüntüsü 2023-08-20 00 28 22](https://github.com/xleyzor/onepagelove-templates-copy/assets/122406455/103d518b-23ed-497d-9cb9-ccd539e2fe9a)
 
 
 <h1>
