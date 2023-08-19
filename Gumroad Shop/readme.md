@@ -1,4 +1,5 @@
-![Ekran Görüntüsü 2023-07-13 18 41 11](https://github.com/xleyzor/onepagelove-templates-copy/assets/122406455/e4a14264-7587-42e1-8110-fed95c60d6a3)
+![Ekran Görüntüsü 2023-08-20 00 27 30](https://github.com/xleyzor/onepagelove-templates-copy/assets/122406455/2faca141-8344-448b-ae5d-d3d9f01d1b2a)
+
 
 <h1>
   Gumroad Shop Template
